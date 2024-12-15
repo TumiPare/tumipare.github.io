@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Some stuff you probably don't need to know
 ---
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+There isn't much to say about me. I live in Pretoria, South Africa. I have lived here, almost all my life, only ever exciting to see some of my extended family in the Western Cape, or Limpopo. The only other reason why I would be out of Pretoria is if I am out on holiday. It has been my desire to explore the world and meet new people and see new places! But life's been hitting me hard and I don't have the cash for anything extravagant currently. However, I have started working (remotly) at a company here in South Africa, Psyergate. I've been working as a juniour java developer intern for a year now. I'm also completing my honours at the University of Pretoria. 
